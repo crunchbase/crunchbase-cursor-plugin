@@ -1,0 +1,20 @@
+{
+  "name": "crunchbase",
+  "version": "1.0.0",
+  "description": "Trusted private market intelligence, right inside your conversation.",
+  "author": {
+    "name": "Crunchbase"
+  },
+  "homepage": "https://data.crunchbase.com/docs/getting-started-with-mcp",
+  "repository": "https://github.com/crunchbase/crunchbase-cursor-plugin",
+  "keywords": [
+    "crunchbase",
+    "mcp",
+    "company-research",
+    "funding",
+    "investors"
+  ],
+  "logo": "assets/crunchbase-icon-blue.png",
+  "mcpServers": "mcp.json",
+  "license": "MIT"
+}
